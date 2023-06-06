@@ -1,8 +1,5 @@
 # GRST-Website
-***
-This website will be used to act as a cheat sheet for the University of Calgary class GRST 211. Being based on medical terminology and memorization of prefixes,
-suffixes, and bases, this website allows for people to look up terms and their definitions. 
-## Website Functions:
+## Basic Website Functions:
 ```
 1. Prefix/Base/Suffix Definitions
 2. Whole Word Definitions
@@ -16,3 +13,7 @@ suffixes, and bases, this website allows for people to look up terms and their d
 3. [Web Usage](#Web-Usage)
 4. [Collaboration](#Collaboration)
 5. [FAQ](#FAQ)
+
+## General Info
+This website will be used to act as a cheat sheet for the University of Calgary class GRST 211. Being based on medical terminology and memorization of prefixes,
+suffixes, and bases, this website allows for people to look up terms and their definitions. 
