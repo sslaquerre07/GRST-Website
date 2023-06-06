@@ -1,7 +1,7 @@
 # GRST-Website
 ## Table of Contents
 1. [General Info](#General-Info)
-2. [Tech/Languages](#Tech/Languages)
+2. [Technologies](#Technologies)
 3. [Web Usage](#Web-Usage)
 4. [FAQ](#FAQ)
 
@@ -20,7 +20,7 @@ suffixes, and bases, this website allows for people to look up terms and their d
 ### Project Status:
 Getting started on the README file and learning the steps for basic web dev! (Started June 6th, 2023)
 
-## Tech/Languages
+## Technologies
 Technologies used in this project:
 * Bullet 1
 * Bullet 2
