@@ -21,6 +21,7 @@ suffixes, and bases, this website allows for people to look up terms and their d
 Getting started on the README file and learning the steps for basic web dev! (Started June 6th, 2023)
 
 ## Technologies
+***
 Technologies used in this project:
 * Bullet 1
 * Bullet 2
