@@ -8,6 +8,7 @@
 ## General Info
 This website will be used to act as a cheat sheet for the University of Calgary class GRST 211. Being based on medical terminology and memorization of prefixes,
 suffixes, and bases, this website allows for people to look up terms and their definitions. 
+![Image Text](https://images.squarespace-cdn.com/content/v1/5e48489da899cd09424943db/1630007310662-YFWC6WMMZSOVFIW24YON/medical+terminology+course+book+quiz+prefix+word+root+suffix+nursing+dictionary+meaning)
 ### Basic Website Functions:
 ```
 1. Prefix/Base/Suffix Definitions
