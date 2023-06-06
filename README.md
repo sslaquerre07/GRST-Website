@@ -17,3 +17,5 @@
 ## General Info
 This website will be used to act as a cheat sheet for the University of Calgary class GRST 211. Being based on medical terminology and memorization of prefixes,
 suffixes, and bases, this website allows for people to look up terms and their definitions. 
+### Project Status:
+Getting started on the README file and learning the steps for basic web dev! (Started June 6th, 2023)
