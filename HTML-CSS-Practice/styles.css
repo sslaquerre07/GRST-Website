@@ -1,0 +1,43 @@
+body {
+    background-image: url(https://www.priddisgreens.com/About/Gallery/Hawk_Course/H01);
+}
+
+h1,p {
+    margin: auto;
+    text-align: center;
+}
+
+.form-info {
+    width: 80%;
+    height: 100vh;
+    margin: auto;
+    background-color: #358AC5;
+}
+
+.set1 {
+    display: block;
+    width: 100%;
+}
+
+select {
+    display: block;
+}
+
+fieldset {
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
+
+.field-text {
+    line-height: 30px;
+}
+
+input[type="submit"] {
+    display: block;
+    width: 50%;
+    margin: auto;
+}
+
+.feedback {
+    width: 100%;
+}

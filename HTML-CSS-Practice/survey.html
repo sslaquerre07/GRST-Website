@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html land="en">
+  <head>
+    <title>Survey Form</title>
+    <meta charset="utf-8"  />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <div class="form-info">
+      <h1 id="title">Priddis Junior League</h1>
+      <p id="description">Feedback form for the 2023 Junior League</p>
+      <form id="survey-form">
+        <fieldset class="field-text">
+          <label for="name" id="name-label">Name: 
+            <input type="text" id="name" class="set1" placeholder="Jon Rahm" required>
+          </label>
+          <label for="email" id="email-label">Email: 
+            <input type="email" id="email" class="set1" placeholder="jon@priddis.ca" required>
+          </label>
+          <label for="index" id="number-label">Golf Canada Index: 
+            <input type="number" id="number" class="set1" min="0" max="40" placeholder="5">
+          </label>
+        </fieldset>
+        <fieldset>
+          <div class="field-text">
+            <label for="dropdown">How long did your average round take?
+              <select id="dropdown">
+                <option>
+                  (select one)
+                </option>
+                <option>
+                  Under 4 Hours
+                </option>
+                <option>
+                  4-4.5 Hours
+                </option>
+                <option>
+                  Over 4.5 Hours
+                </option>
+              </select>
+            </label>
+            <label for="course">Which course was most enjoyable for the League play this past year?
+              <input type="radio" name="course" id="course" value="Raven">Raven
+              <input type="radio" name="course" id="course" value="Hawk">Hawk
+            </label>
+          </div>
+        </fieldset>
+        <fieldset>
+          <label for="feedback">
+            How could we improve this experience for next season?:
+            <textarea class="feedback"></textarea>
+          </label>
+          <label for="fun">Did you have fun?
+            <input type="checkbox" value="yes">Yes
+            <input type="checkbox" value="no">No
+          </label>
+        </fieldset>
+        <label for="submit">
+          <input type="submit" id="submit">
+        </label>
+      </form>
+    </div>
+  </body>
+</html>
