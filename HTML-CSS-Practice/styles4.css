@@ -1,0 +1,166 @@
+*,
+::before,
+::after {
+  box-sizing: border-box;
+  font-family: sans-serif;
+}
+
+/* Header Styling */
+
+header{
+  width: 100%;
+  height: 5vh;
+  margin-bottom: 2vh;
+  float: top;
+  display: flex;
+  flex-direction: row;
+}
+
+.logo{
+  width: 25%
+}
+#nav-bar{
+  width: 75%;
+}
+
+#nav-list{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+
+#nav-bar #nav-list li{
+  display: inline-block;
+}
+
+/* Main Page Styling */
+
+main{
+  height: 95vh;
+  overflow: scroll;
+}
+
+#driver-photo{
+  width: 100%;
+  height: 100%;
+  margin-bottom: 5px;
+  background-image: url(https://pingmediastage.azureedge.net/mediastorage/mediastorage/ping-na/medialibrary/home%20page/2023/g430lstfairways_1440x729_style2.jpg);
+}
+
+#ad-color{
+  width: 40%;
+  height: 40%;
+  background-color: #07380F;
+  opacity: 60%;
+  position: relative;
+  top: 15%;
+  left: 10%;
+  display: flex;
+  align-items: center;
+}
+
+#ad-text{
+  color: white;
+  font-size: 2rem;
+  font-weight: 600;
+  text-align: center;
+}
+
+form{
+  margin: 5vh 25vw;
+}
+
+.email-text, #email, #submit{
+  display: inline-block;
+  position: relative;
+}
+
+#video-box{
+  width: 100%;
+  height: 95vh;
+  background-color: #1D214D;
+}
+
+#video-box .title{
+  width: 100%;
+  height: 10%;
+  padding-top: 5%;
+  text-align: center;
+  color: white;
+}
+
+.med-div{
+  width: 15%;
+  opacity: 60%;
+  margin-top: 5%;
+}
+
+#video{
+  width: 100%;
+  height: 85%;
+}
+
+#features{
+  width: 100%;
+  height: 95vh;
+
+}
+
+.feature-title{
+  margin: 5vh 5vw;
+}
+
+.product-box{
+  width: 90%;
+  height: 80vh;
+  margin: 0 5vw;
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+}
+
+.p1, .p2, .p3, .p4{
+  border: 1px solid black;
+  margin: 0 2vw;
+}
+
+.p-img, .description{
+  border: 1px solid black;
+}
+
+.p-img{
+  width: 100%;
+  height: 40%;
+}
+
+.description{
+  width: 100%;
+  height: 60%;
+  overflow: scroll;
+}
+
+#p-photo{
+  width: 100%;
+  height: 100%;
+}
+
+h3{
+  text-align: center;
+}
+
+.small-div{
+  width: 20%;
+  height: 1%;
+  opacity: 60%;
+  background-color: blue;
+}
+
+.product-desc{
+  text-align: center;
+}
+
+#limited-edition{
+  width: 100%;
+  height: 80vh;
+  background-image: url(https://pingmediastage.azureedge.net/mediastorage/mediastorage/ping-na/medialibrary/ecommerce/2023/ecomm_starsandstripescollection_landing-hero_1440x500.jpg);
+  margin-top: 8vh;
+}
